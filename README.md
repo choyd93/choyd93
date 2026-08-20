@@ -42,7 +42,7 @@
   - Supabase/PostgreSQL 기반 풀스택 설계, RLS 보안 정책 및 AWS 인프라 배포/운영
 
 #### 📱 Side Project
-- **데일링 (Daling) - 음성 기반 소셜 서비스**
+- **데일링 - 음성 기반 소셜 서비스**
   - Flutter & Supabase 기반 크로스 플랫폼 1인 개발 및 App Store/Google Play 출시·운영
   - 실시간 통화(Agora/WebRTC), 채팅, 인앱결제/광고 수익화 연동 및 GA4 기반 지표 개선
 
